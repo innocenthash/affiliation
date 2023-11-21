@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.2",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.2",
+        "axios": "^1.1.2",
+        "laravel-echo": "^1.15.0",
+        "laravel-mix": "^6.0.49",
+        "laravel-vite-plugin": "^0.7.4",
+        "lodash": "^4.17.19",
+        "postcss": "^8.4.6",
+        "pusher-js": "^8.0.2",
+        "rollup": "^3.20.2",
+        "sass": "^1.60.0",
+        "sass-loader": "^12.1.0",
+        "tailwindcss": "^3.1.0",
+        "vite": "^4.2.1",
+        "webpack": "^5.77.0"
+    }
+}
